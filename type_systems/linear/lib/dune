@@ -1,0 +1,4 @@
+(library
+ (name static_ownership)
+ (modules linear_buffer)
+ (libraries eio eio_main))

@@ -1,6 +1,7 @@
 .DS_Store
 .vscode/
 build/
+_build/
 test/
 reference/
 ref/

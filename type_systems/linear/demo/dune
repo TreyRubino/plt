@@ -1,0 +1,3 @@
+(executables
+ (names data_race data_race_linear data_race_mutex data_race_error)
+ (libraries static_ownership eio))
