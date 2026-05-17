@@ -1,0 +1,3 @@
+(library
+ (name stm)
+ (libraries threads.posix))
