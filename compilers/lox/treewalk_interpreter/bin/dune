@@ -1,0 +1,7 @@
+(executable
+ (name main))
+
+(rule
+ (target loxi)
+ (mode (promote (until-clean)))
+ (action (copy main.exe loxi)))
